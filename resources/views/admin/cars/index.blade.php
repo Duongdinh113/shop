@@ -16,7 +16,7 @@
         </div>
 
         <!-- Content Row -->
-        <a href="{{ route('admin.Cars.create') }}" class="btn btn-primary">Thêm item</a>
+        <a href="{{ route('admin.cars.create') }}" class="btn btn-primary">Thêm item</a>
         <div class="">
             <div class="card shadow mb-4">
                 <div class="card-header py-3">
@@ -28,9 +28,10 @@
                             <thead>
                                 <tr>
                                     <th>ID</th>
-                                    <th>Title</th>
-                                    <th>Image</th>
-                                    <th>Status</th>
+                                    <th>name</th>
+                                    <th>brand</th>
+                                    <th>img_thumbnail</th>
+                                    <th>describe</th>
                                     <th>Action</th>
                                 </tr>
                             </thead>
@@ -42,23 +43,16 @@
                                     <tr>
                                         <td>{{ $item->id }}</td>
                                         <td>{{ $item->name }}</td>
+                                        <td>{{ $item->brand->id . ' - ' . $item->brand->name}}</td>
+
                                         <td>
-                                            <img src="{{ asset($item->img) }}" alt="" width="50px">
+                                            <img src="{{ \Storage::url($item->img_thumbnail) }}" alt="" width="50px">
                                         </td>
                                         <td>
-                                            @if ($item->is_show == '0')
-                                                <span class="">🟤</span>
-                                            @else
-                                                <span class="">🟢</span>
-                                            @endif
-                                            {{-- {{ $item->is_show }} --}}
-                                        </td>
-                                        <td>
-                                            <a href="{{ route('admin.Cars.show', $item) }}" class="btn btn-info">show</a>
-                                            <a href="{{ route('admin.Cars.edit', $item) }}"
-                                                class="btn btn-success">Sửa</a>
+                                            <a href="{{ route('admin.cars.show', $item) }}" class="btn btn-info">show</a>
+                                            <a href="{{ route('admin.cars.edit', $item) }}" class="btn btn-success">Sửa</a>
                                             <form id="item-{{ $item->id }}"
-                                                action="{{ route('admin.Cars.delete', $item) }}" method="POST">
+                                                action="{{ route('admin.cars.destroy', $item) }}" method="POST">
                                                 @csrf
                                                 @method('DELETE')
                                                 <button class="btn btn-danger" type="button"

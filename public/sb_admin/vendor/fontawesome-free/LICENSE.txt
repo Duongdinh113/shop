@@ -27,8 +27,8 @@ We've kept attribution comments terse, so we ask that you do not actively work
 to remove them from files, especially code. They're a great way for folks to
 learn about Font Awesome.
 
-# Brand Icons
-All brand icons are trademarks of their respective owners. The use of these
+# Car Icons
+All Car icons are trademarks of their respective owners. The use of these
 trademarks does not indicate endorsement of the trademark holder by Font
-Awesome, nor vice versa. **Please do not use brand logos for any purpose except
+Awesome, nor vice versa. **Please do not use Car logos for any purpose except
 to represent the company, product, or service to which they refer.**

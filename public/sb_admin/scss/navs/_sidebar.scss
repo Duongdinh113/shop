@@ -129,7 +129,7 @@
         }
     }
 
-    .sidebar-brand {
+    .sidebar-Car {
         height: $topbar-base-height;
         text-decoration: none;
         font-size: 1rem;
@@ -140,11 +140,11 @@
         letter-spacing: 0.05rem;
         z-index: 1;
 
-        .sidebar-brand-icon i {
+        .sidebar-Car-icon i {
             font-size: 2rem;
         }
 
-        .sidebar-brand-text {
+        .sidebar-Car-text {
             display: none;
         }
     }
@@ -254,12 +254,12 @@
             }
         }
 
-        .sidebar-brand {
-            .sidebar-brand-icon i {
+        .sidebar-Car {
+            .sidebar-Car-icon i {
                 font-size: 2rem;
             }
 
-            .sidebar-brand-text {
+            .sidebar-Car-text {
                 display: inline;
             }
         }
@@ -325,12 +325,12 @@
                 }
             }
 
-            .sidebar-brand {
-                .sidebar-brand-icon i {
+            .sidebar-Car {
+                .sidebar-Car-icon i {
                     font-size: 2rem;
                 }
 
-                .sidebar-brand-text {
+                .sidebar-Car-text {
                     display: none;
                 }
             }
@@ -346,7 +346,7 @@
 
 // Sidebar Light
 .sidebar-light {
-    .sidebar-brand {
+    .sidebar-Car {
         color: $gray-700;
     }
 
@@ -409,7 +409,7 @@
 
 // Sidebar Dark
 .sidebar-dark {
-    .sidebar-brand {
+    .sidebar-Car {
         color: $white;
     }
 

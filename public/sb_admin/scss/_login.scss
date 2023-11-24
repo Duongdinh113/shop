@@ -42,9 +42,9 @@ form.user {
 }
 
 .btn-google {
-  @include button-variant($brand-google, $white);
+  @include button-variant($Car-google, $white);
 }
 
 .btn-facebook {
-  @include button-variant($brand-facebook, $white);
+  @include button-variant($Car-facebook, $white);
 }

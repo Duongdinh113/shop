@@ -5,7 +5,7 @@ namespace Database\Seeders;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 
-class BrandSeeder extends Seeder
+class CarSeeder extends Seeder
 {
     /**
      * Run the database seeds.
@@ -13,6 +13,6 @@ class BrandSeeder extends Seeder
     public function run(): void
     {
         //
-        \App\Models\Brand::factory(20)->create();
+        \App\Models\Car::factory(20)->create();
     }
 }

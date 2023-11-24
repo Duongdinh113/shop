@@ -1,8 +1,11 @@
 <?php
 
-use App\Http\Controllers\Admin\brandController;
+use App\Http\Controllers\Admin\CarController;
+use App\Http\Controllers\Admin\CarControllerller;
 use App\Http\Controllers\ProductController;
+use App\Http\Controllers\BrandController;
 use App\Models\Brand;
+use App\Models\Car;
 use App\Models\Product;
 use Illuminate\Support\Facades\Route;
 
@@ -32,12 +35,15 @@ route::prefix('admin')
         Route::get('dasboard', function () {
             return view('admin.dasboard');
         });
-    Route::get('/brands',[brandController::class, 'index'])->name('brands.index');
-    Route::get('/brands/create',[brandController::class, 'create'])->name('brands.create');
-    Route::post('/brands/store',[brandController::class, 'store'])->name('brands.store');
-    Route::get('/brands/{brand}',[brandController::class, 'show'])->name('brands.show');
-    Route::get('/brands/{brand}/edit',[brandController::class, 'edit'])->name('brands.edit');
-    Route::put('/brands/{id}',[brandController::class, 'update'])->name('brands.update');
-    Route::delete('/brands/{id}',[brandController::class, 'delete'])->name('brands.delete');
-    // Route::delete('/brands/{id}',[brandController::class, 'delete'])->name('brands.delete');
+    Route::get('/Cars',[CarController::class, 'index'])->name('Cars.index');
+    Route::get('/Cars/create',[CarController::class, 'create'])->name('Cars.create');
+    Route::post('/Cars/store',[CarController::class, 'store'])->name('Cars.store');
+    Route::get('/Cars/{Car}',[CarController::class, 'show'])->name('Cars.show');
+    Route::get('/Cars/{Car}/edit',[CarController::class, 'edit'])->name('Cars.edit');
+    Route::put('/Cars/{id}',[CarController::class, 'update'])->name('Cars.update');
+    Route::delete('/Cars/{id}',[CarController::class, 'delete'])->name('Cars.delete');
+    // Route::delete('/Cars/{id}',[CarController::class, 'delete'])->name('Cars.delete');
+
+    Route::resource('cars', CarController::class);
+    Route::resource('brands', BrandController::class);
 });

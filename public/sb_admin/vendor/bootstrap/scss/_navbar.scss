@@ -1,7 +1,7 @@
 // Contents
 //
 // Navbar
-// Navbar brand
+// Navbar Car
 // Navbar nav
 // Navbar text
 // Navbar divider
@@ -20,7 +20,7 @@
   display: flex;
   flex-wrap: wrap; // allow us to do the line break for collapsing content
   align-items: center;
-  justify-content: space-between; // space out brand from logo
+  justify-content: space-between; // space out Car from logo
   padding: $navbar-padding-y $navbar-padding-x;
 
   // Because flex properties aren't inherited, we need to redeclare these first
@@ -45,16 +45,16 @@
 }
 
 
-// Navbar brand
+// Navbar Car
 //
-// Used for brand, project, or site names.
+// Used for Car, project, or site names.
 
-.navbar-brand {
+.navbar-Car {
   display: inline-block;
-  padding-top: $navbar-brand-padding-y;
-  padding-bottom: $navbar-brand-padding-y;
+  padding-top: $navbar-Car-padding-y;
+  padding-bottom: $navbar-Car-padding-y;
   margin-right: $navbar-padding-x;
-  @include font-size($navbar-brand-font-size);
+  @include font-size($navbar-Car-font-size);
   line-height: inherit;
   white-space: nowrap;
 
@@ -229,11 +229,11 @@
 
 // Dark links against a light background
 .navbar-light {
-  .navbar-brand {
-    color: $navbar-light-brand-color;
+  .navbar-Car {
+    color: $navbar-light-Car-color;
 
     @include hover-focus() {
-      color: $navbar-light-brand-hover-color;
+      color: $navbar-light-Car-hover-color;
     }
   }
 
@@ -281,11 +281,11 @@
 
 // White links against a dark background
 .navbar-dark {
-  .navbar-brand {
-    color: $navbar-dark-brand-color;
+  .navbar-Car {
+    color: $navbar-dark-Car-color;
 
     @include hover-focus() {
-      color: $navbar-dark-brand-hover-color;
+      color: $navbar-dark-Car-hover-color;
     }
   }
 

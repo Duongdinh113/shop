@@ -6,7 +6,7 @@
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f26e
   voted: false
 accessible-icon:
@@ -21,7 +21,7 @@ accessible-icon:
       - wheelchair
       - wheelchair-alt
   styles:
-    - brands
+    - Cars
   unicode: f368
   voted: false
 accusoft:
@@ -31,7 +31,7 @@ accusoft:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f369
   voted: false
 acquisitions-incorporated:
@@ -49,7 +49,7 @@ acquisitions-incorporated:
       - gaming
       - tabletop
   styles:
-    - brands
+    - Cars
   unicode: f6af
   voted: false
 ad:
@@ -130,7 +130,7 @@ adn:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f170
   voted: false
 adversal:
@@ -140,7 +140,7 @@ adversal:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f36a
   voted: false
 affiliatetheme:
@@ -150,7 +150,7 @@ affiliatetheme:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f36b
   voted: false
 air-freshener:
@@ -176,7 +176,7 @@ airbnb:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f834
 algolia:
   changes:
@@ -185,7 +185,7 @@ algolia:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f36c
   voted: false
 align-center:
@@ -256,7 +256,7 @@ alipay:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f642
   voted: false
 allergies:
@@ -284,7 +284,7 @@ amazon:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f270
   voted: false
 amazon-pay:
@@ -295,7 +295,7 @@ amazon-pay:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f42c
   voted: false
 ambulance:
@@ -342,7 +342,7 @@ amilia:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f36d
   voted: false
 anchor:
@@ -375,7 +375,7 @@ android:
     terms:
       - robot
   styles:
-    - brands
+    - Cars
   unicode: f17b
   voted: false
 angellist:
@@ -386,7 +386,7 @@ angellist:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f209
   voted: false
 angle-double-down:
@@ -543,7 +543,7 @@ angrycreative:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f36e
   voted: false
 angular:
@@ -554,7 +554,7 @@ angular:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f420
   voted: false
 ankh:
@@ -581,7 +581,7 @@ app-store:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f36f
   voted: false
 app-store-ios:
@@ -591,7 +591,7 @@ app-store-ios:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f370
   voted: false
 apper:
@@ -601,7 +601,7 @@ apper:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f371
   voted: false
 apple:
@@ -620,7 +620,7 @@ apple:
       - os
       - osx
   styles:
-    - brands
+    - Cars
   unicode: f179
   voted: false
 apple-alt:
@@ -647,7 +647,7 @@ apple-pay:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f415
   voted: true
 archive:
@@ -897,7 +897,7 @@ artstation:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f77a
   voted: true
 assistive-listening-systems:
@@ -940,7 +940,7 @@ asymmetrik:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f372
   voted: false
 at:
@@ -983,7 +983,7 @@ atlassian:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f77b
   voted: true
 atom:
@@ -1013,7 +1013,7 @@ audible:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f373
   voted: false
 audio-description:
@@ -1039,7 +1039,7 @@ autoprefixer:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f41c
   voted: false
 avianex:
@@ -1049,7 +1049,7 @@ avianex:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f374
   voted: false
 aviato:
@@ -1059,7 +1059,7 @@ aviato:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f421
   voted: false
 award:
@@ -1088,7 +1088,7 @@ aws:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f375
   voted: false
 baby:
@@ -1321,7 +1321,7 @@ bandcamp:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2d5
   voted: false
 barcode:
@@ -1493,7 +1493,7 @@ battle-net:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f835
 bed:
   changes:
@@ -1541,7 +1541,7 @@ behance:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1b4
   voted: false
 behance-square:
@@ -1553,7 +1553,7 @@ behance-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1b5
   voted: false
 bell:
@@ -1663,7 +1663,7 @@ bimobject:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f378
   voted: false
 binoculars:
@@ -1736,7 +1736,7 @@ bitbucket:
       - bitbucket-square
       - git
   styles:
-    - brands
+    - Cars
   unicode: f171
   voted: false
 bitcoin:
@@ -1746,7 +1746,7 @@ bitcoin:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f379
   voted: false
 bity:
@@ -1756,7 +1756,7 @@ bity:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f37a
   voted: false
 black-tie:
@@ -1767,7 +1767,7 @@ black-tie:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f27e
   voted: false
 blackberry:
@@ -1777,7 +1777,7 @@ blackberry:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f37b
   voted: false
 blender:
@@ -1855,7 +1855,7 @@ blogger:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f37c
   voted: false
 blogger-b:
@@ -1865,7 +1865,7 @@ blogger-b:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f37d
   voted: false
 bluetooth:
@@ -1876,7 +1876,7 @@ bluetooth:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f293
   voted: false
 bluetooth-b:
@@ -1887,7 +1887,7 @@ bluetooth-b:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f294
   voted: false
 bold:
@@ -2087,7 +2087,7 @@ bootstrap:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f836
 border-all:
   changes:
@@ -2353,7 +2353,7 @@ btc:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f15a
   voted: false
 buffer:
@@ -2363,7 +2363,7 @@ buffer:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f837
 bug:
   changes:
@@ -2456,7 +2456,7 @@ buromobelexperte:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f37f
   voted: false
 bus:
@@ -2514,7 +2514,7 @@ buy-n-large:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f8a6
 buysellads:
   changes:
@@ -2524,7 +2524,7 @@ buysellads:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f20d
   voted: false
 calculator:
@@ -2790,7 +2790,7 @@ canadian-maple-leaf:
       - nature
       - plant
   styles:
-    - brands
+    - Cars
   unicode: f785
 candy-cane:
   changes:
@@ -3167,7 +3167,7 @@ cc-amazon-pay:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f42d
   voted: false
 cc-amex:
@@ -3180,7 +3180,7 @@ cc-amex:
     terms:
       - amex
   styles:
-    - brands
+    - Cars
   unicode: f1f3
   voted: false
 cc-apple-pay:
@@ -3190,7 +3190,7 @@ cc-apple-pay:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f416
   voted: false
 cc-diners-club:
@@ -3201,7 +3201,7 @@ cc-diners-club:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f24c
   voted: false
 cc-discover:
@@ -3212,7 +3212,7 @@ cc-discover:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1f2
   voted: false
 cc-jcb:
@@ -3223,7 +3223,7 @@ cc-jcb:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f24b
   voted: false
 cc-mastercard:
@@ -3234,7 +3234,7 @@ cc-mastercard:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1f1
   voted: false
 cc-paypal:
@@ -3245,7 +3245,7 @@ cc-paypal:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1f4
   voted: false
 cc-stripe:
@@ -3256,7 +3256,7 @@ cc-stripe:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1f5
   voted: false
 cc-visa:
@@ -3267,7 +3267,7 @@ cc-visa:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1f0
   voted: false
 centercode:
@@ -3277,7 +3277,7 @@ centercode:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f380
   voted: false
 centos:
@@ -3291,7 +3291,7 @@ centos:
       - operating system
       - os
   styles:
-    - brands
+    - Cars
   unicode: f789
   voted: true
 certificate:
@@ -3825,7 +3825,7 @@ chrome:
     terms:
       - browser
   styles:
-    - brands
+    - Cars
   unicode: f268
   voted: false
 chromecast:
@@ -3835,7 +3835,7 @@ chromecast:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f838
 church:
   changes:
@@ -4201,7 +4201,7 @@ cloudflare:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e07d
   voted: false
 cloudscale:
@@ -4211,7 +4211,7 @@ cloudscale:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f383
   voted: false
 cloudsmith:
@@ -4221,7 +4221,7 @@ cloudsmith:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f384
   voted: false
 cloudversify:
@@ -4231,7 +4231,7 @@ cloudversify:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f385
   voted: false
 cocktail:
@@ -4295,7 +4295,7 @@ codepen:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1cb
   voted: false
 codiepie:
@@ -4306,7 +4306,7 @@ codiepie:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f284
   voted: false
 coffee:
@@ -4710,7 +4710,7 @@ confluence:
     terms:
       - atlassian
   styles:
-    - brands
+    - Cars
   unicode: f78d
   voted: true
 connectdevelop:
@@ -4721,7 +4721,7 @@ connectdevelop:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f20e
   voted: false
 contao:
@@ -4732,7 +4732,7 @@ contao:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f26d
   voted: false
 cookie:
@@ -4798,7 +4798,7 @@ copyright:
   label: Copyright
   search:
     terms:
-      - brand
+      - Car
       - mark
       - register
       - trademark
@@ -4817,7 +4817,7 @@ cotton-bureau:
       - t-shirts
       - tshirts
   styles:
-    - brands
+    - Cars
   unicode: f89e
 couch:
   changes:
@@ -4841,7 +4841,7 @@ cpanel:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f388
   voted: false
 creative-commons:
@@ -4854,7 +4854,7 @@ creative-commons:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f25e
   voted: false
 creative-commons-by:
@@ -4864,7 +4864,7 @@ creative-commons-by:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4e7
   voted: false
 creative-commons-nc:
@@ -4874,7 +4874,7 @@ creative-commons-nc:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4e8
   voted: false
 creative-commons-nc-eu:
@@ -4884,7 +4884,7 @@ creative-commons-nc-eu:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4e9
   voted: false
 creative-commons-nc-jp:
@@ -4894,7 +4894,7 @@ creative-commons-nc-jp:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4ea
   voted: false
 creative-commons-nd:
@@ -4904,7 +4904,7 @@ creative-commons-nd:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4eb
   voted: false
 creative-commons-pd:
@@ -4914,7 +4914,7 @@ creative-commons-pd:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4ec
   voted: false
 creative-commons-pd-alt:
@@ -4924,7 +4924,7 @@ creative-commons-pd-alt:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4ed
   voted: false
 creative-commons-remix:
@@ -4934,7 +4934,7 @@ creative-commons-remix:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4ee
   voted: false
 creative-commons-sa:
@@ -4944,7 +4944,7 @@ creative-commons-sa:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4ef
   voted: false
 creative-commons-sampling:
@@ -4954,7 +4954,7 @@ creative-commons-sampling:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4f0
   voted: false
 creative-commons-sampling-plus:
@@ -4964,7 +4964,7 @@ creative-commons-sampling-plus:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4f1
   voted: false
 creative-commons-share:
@@ -4974,7 +4974,7 @@ creative-commons-share:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4f2
   voted: false
 creative-commons-zero:
@@ -4985,7 +4985,7 @@ creative-commons-zero:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4f3
   voted: false
 credit-card:
@@ -5022,7 +5022,7 @@ critical-role:
       - gaming
       - tabletop
   styles:
-    - brands
+    - Cars
   unicode: f6c9
   voted: false
 crop:
@@ -5143,7 +5143,7 @@ css3:
     terms:
       - code
   styles:
-    - brands
+    - Cars
   unicode: f13c
   voted: false
 css3-alt:
@@ -5153,7 +5153,7 @@ css3-alt:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f38b
   voted: false
 cube:
@@ -5214,7 +5214,7 @@ cuttlefish:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f38c
   voted: false
 d-and-d:
@@ -5224,7 +5224,7 @@ d-and-d:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f38d
   voted: false
 d-and-d-beyond:
@@ -5240,7 +5240,7 @@ d-and-d-beyond:
       - gaming
       - tabletop
   styles:
-    - brands
+    - Cars
   unicode: f6ca
   voted: false
 dailymotion:
@@ -5251,7 +5251,7 @@ dailymotion:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e052
   voted: true
 dashcube:
@@ -5263,7 +5263,7 @@ dashcube:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f210
   voted: false
 database:
@@ -5304,7 +5304,7 @@ deezer:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e077
   voted: true
 delicious:
@@ -5316,7 +5316,7 @@ delicious:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1a5
   voted: false
 democrat:
@@ -5345,7 +5345,7 @@ deploydog:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f38e
   voted: false
 deskpro:
@@ -5355,7 +5355,7 @@ deskpro:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f38f
   voted: false
 desktop:
@@ -5386,7 +5386,7 @@ dev:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f6cc
   voted: true
 deviantart:
@@ -5397,7 +5397,7 @@ deviantart:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1bd
   voted: false
 dharmachakra:
@@ -5425,7 +5425,7 @@ dhl:
       - package
       - shipping
   styles:
-    - brands
+    - Cars
   unicode: f790
 diagnoses:
   changes:
@@ -5451,7 +5451,7 @@ diaspora:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f791
   voted: true
 dice:
@@ -5596,7 +5596,7 @@ digg:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1a6
   voted: false
 digital-ocean:
@@ -5607,7 +5607,7 @@ digital-ocean:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f391
   voted: false
 digital-tachograph:
@@ -5646,7 +5646,7 @@ discord:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f392
   voted: false
 discourse:
@@ -5657,7 +5657,7 @@ discourse:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f393
   voted: false
 disease:
@@ -5732,7 +5732,7 @@ dochub:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f394
   voted: false
 docker:
@@ -5742,7 +5742,7 @@ docker:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f395
   voted: false
 dog:
@@ -5905,7 +5905,7 @@ draft2digital:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f396
   voted: false
 drafting-compass:
@@ -5962,7 +5962,7 @@ dribbble:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f17d
   voted: false
 dribbble-square:
@@ -5972,7 +5972,7 @@ dribbble-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f397
   voted: false
 dropbox:
@@ -5984,7 +5984,7 @@ dropbox:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f16b
   voted: false
 drum:
@@ -6047,7 +6047,7 @@ drupal:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1a9
   voted: false
 dumbbell:
@@ -6126,7 +6126,7 @@ dyalog:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f399
   voted: false
 earlybirds:
@@ -6136,7 +6136,7 @@ earlybirds:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f39a
   voted: false
 ebay:
@@ -6147,7 +6147,7 @@ ebay:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4f4
   voted: true
 edge:
@@ -6161,7 +6161,7 @@ edge:
       - browser
       - ie
   styles:
-    - brands
+    - Cars
   unicode: f282
   voted: false
 edge-legacy:
@@ -6172,7 +6172,7 @@ edge-legacy:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e078
   voted: false
 edit:
@@ -6229,7 +6229,7 @@ elementor:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f430
   voted: true
 ellipsis-h:
@@ -6283,7 +6283,7 @@ ello:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f5f1
   voted: true
 ember:
@@ -6294,7 +6294,7 @@ ember:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f423
   voted: false
 empire:
@@ -6305,7 +6305,7 @@ empire:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1d1
   voted: false
 envelope:
@@ -6396,7 +6396,7 @@ envira:
     terms:
       - leaf
   styles:
-    - brands
+    - Cars
   unicode: f299
   voted: false
 equals:
@@ -6438,7 +6438,7 @@ erlang:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f39d
   voted: false
 ethereum:
@@ -6448,7 +6448,7 @@ ethereum:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f42e
   voted: true
 ethernet:
@@ -6477,7 +6477,7 @@ etsy:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2d7
   voted: false
 euro-sign:
@@ -6502,7 +6502,7 @@ evernote:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f839
 exchange-alt:
   changes:
@@ -6639,7 +6639,7 @@ expeditedssl:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f23e
   voted: false
 external-link-alt:
@@ -6742,7 +6742,7 @@ facebook:
       - facebook-official
       - social network
   styles:
-    - brands
+    - Cars
   unicode: f09a
   voted: false
 facebook-f:
@@ -6754,7 +6754,7 @@ facebook-f:
     terms:
       - facebook
   styles:
-    - brands
+    - Cars
   unicode: f39e
   voted: false
 facebook-messenger:
@@ -6766,7 +6766,7 @@ facebook-messenger:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f39f
   voted: false
 facebook-square:
@@ -6779,7 +6779,7 @@ facebook-square:
     terms:
       - social network
   styles:
-    - brands
+    - Cars
   unicode: f082
   voted: false
 fan:
@@ -6813,7 +6813,7 @@ fantasy-flight-games:
       - gaming
       - tabletop
   styles:
-    - brands
+    - Cars
   unicode: f6dc
   voted: false
 fast-backward:
@@ -6923,7 +6923,7 @@ fedex:
       - package
       - shipping
   styles:
-    - brands
+    - Cars
   unicode: f797
 fedora:
   changes:
@@ -6937,7 +6937,7 @@ fedora:
       - operating system
       - os
   styles:
-    - brands
+    - Cars
   unicode: f798
   voted: true
 female:
@@ -6989,7 +6989,7 @@ figma:
       - design
       - interface
   styles:
-    - brands
+    - Cars
   unicode: f799
   voted: false
 file:
@@ -7529,7 +7529,7 @@ firefox:
     terms:
       - browser
   styles:
-    - brands
+    - Cars
   unicode: f269
   voted: false
 firefox-browser:
@@ -7541,7 +7541,7 @@ firefox-browser:
     terms:
       - browser
   styles:
-    - brands
+    - Cars
   unicode: e007
   voted: false
 first-aid:
@@ -7567,7 +7567,7 @@ first-order:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2b0
   voted: false
 first-order-alt:
@@ -7577,7 +7577,7 @@ first-order-alt:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f50a
   voted: false
 firstdraft:
@@ -7587,7 +7587,7 @@ firstdraft:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3a1
   voted: false
 fish:
@@ -7703,7 +7703,7 @@ flickr:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f16e
   voted: false
 flipboard:
@@ -7714,7 +7714,7 @@ flipboard:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f44d
   voted: true
 flushed:
@@ -7740,7 +7740,7 @@ fly:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f417
   voted: false
 folder:
@@ -7843,7 +7843,7 @@ font-awesome:
     terms:
       - meanpath
   styles:
-    - brands
+    - Cars
   unicode: f2b4
   voted: false
 font-awesome-alt:
@@ -7853,7 +7853,7 @@ font-awesome-alt:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f35c
   voted: false
 font-awesome-flag:
@@ -7864,7 +7864,7 @@ font-awesome-flag:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f425
   voted: false
 font-awesome-logo-full:
@@ -7879,7 +7879,7 @@ font-awesome-logo-full:
   styles:
     - regular
     - solid
-    - brands
+    - Cars
   unicode: f4e6
   voted: false
 fonticons:
@@ -7890,7 +7890,7 @@ fonticons:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f280
   voted: false
 fonticons-fi:
@@ -7900,7 +7900,7 @@ fonticons-fi:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3a2
   voted: false
 football-ball:
@@ -7930,7 +7930,7 @@ fort-awesome:
     terms:
       - castle
   styles:
-    - brands
+    - Cars
   unicode: f286
   voted: false
 fort-awesome-alt:
@@ -7941,7 +7941,7 @@ fort-awesome-alt:
     terms:
       - castle
   styles:
-    - brands
+    - Cars
   unicode: f3a3
   voted: false
 forumbee:
@@ -7952,7 +7952,7 @@ forumbee:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f211
   voted: false
 forward:
@@ -7977,7 +7977,7 @@ foursquare:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f180
   voted: false
 free-code-camp:
@@ -7989,7 +7989,7 @@ free-code-camp:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2c5
   voted: false
 freebsd:
@@ -7999,7 +7999,7 @@ freebsd:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3a4
   voted: false
 frog:
@@ -8069,7 +8069,7 @@ fulcrum:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f50b
   voted: false
 funnel-dollar:
@@ -8113,7 +8113,7 @@ galactic-republic:
       - politics
       - star wars
   styles:
-    - brands
+    - Cars
   unicode: f50c
   voted: false
 galactic-senate:
@@ -8124,7 +8124,7 @@ galactic-senate:
     terms:
       - star wars
   styles:
-    - brands
+    - Cars
   unicode: f50d
   voted: false
 gamepad:
@@ -8217,7 +8217,7 @@ get-pocket:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f265
   voted: false
 gg:
@@ -8228,7 +8228,7 @@ gg:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f260
   voted: false
 gg-circle:
@@ -8239,7 +8239,7 @@ gg-circle:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f261
   voted: false
 ghost:
@@ -8308,7 +8308,7 @@ git:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1d3
   voted: false
 git-alt:
@@ -8318,7 +8318,7 @@ git-alt:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f841
 git-square:
   changes:
@@ -8329,7 +8329,7 @@ git-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1d2
   voted: false
 github:
@@ -8341,7 +8341,7 @@ github:
     terms:
       - octocat
   styles:
-    - brands
+    - Cars
   unicode: f09b
   voted: false
 github-alt:
@@ -8353,7 +8353,7 @@ github-alt:
     terms:
       - octocat
   styles:
-    - brands
+    - Cars
   unicode: f113
   voted: false
 github-square:
@@ -8365,7 +8365,7 @@ github-square:
     terms:
       - octocat
   styles:
-    - brands
+    - Cars
   unicode: f092
   voted: false
 gitkraken:
@@ -8375,7 +8375,7 @@ gitkraken:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3a6
   voted: false
 gitlab:
@@ -8388,7 +8388,7 @@ gitlab:
     terms:
       - Axosoft
   styles:
-    - brands
+    - Cars
   unicode: f296
   voted: false
 gitter:
@@ -8398,7 +8398,7 @@ gitter:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f426
   voted: false
 glass-cheers:
@@ -8497,7 +8497,7 @@ glide:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2a5
   voted: false
 glide-g:
@@ -8508,7 +8508,7 @@ glide-g:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2a6
   voted: false
 globe:
@@ -8656,7 +8656,7 @@ gofore:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3a7
   voted: false
 golf-ball:
@@ -8680,7 +8680,7 @@ goodreads:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3a8
   voted: false
 goodreads-g:
@@ -8690,7 +8690,7 @@ goodreads-g:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3a9
   voted: false
 google:
@@ -8701,7 +8701,7 @@ google:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1a0
   voted: false
 google-drive:
@@ -8711,7 +8711,7 @@ google-drive:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3aa
   voted: false
 google-pay:
@@ -8722,7 +8722,7 @@ google-pay:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e079
   voted: false
 google-play:
@@ -8732,7 +8732,7 @@ google-play:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3ab
   voted: false
 google-plus:
@@ -8746,7 +8746,7 @@ google-plus:
       - google-plus-circle
       - google-plus-official
   styles:
-    - brands
+    - Cars
   unicode: f2b3
   voted: false
 google-plus-g:
@@ -8759,7 +8759,7 @@ google-plus-g:
       - google-plus
       - social network
   styles:
-    - brands
+    - Cars
   unicode: f0d5
   voted: false
 google-plus-square:
@@ -8771,7 +8771,7 @@ google-plus-square:
     terms:
       - social network
   styles:
-    - brands
+    - Cars
   unicode: f0d4
   voted: false
 google-wallet:
@@ -8782,7 +8782,7 @@ google-wallet:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1ee
   voted: false
 gopuram:
@@ -8833,7 +8833,7 @@ gratipay:
       - like
       - love
   styles:
-    - brands
+    - Cars
   unicode: f184
   voted: false
 grav:
@@ -8844,7 +8844,7 @@ grav:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2d6
   voted: false
 greater-than:
@@ -9174,7 +9174,7 @@ gripfire:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3ac
   voted: false
 grunt:
@@ -9184,7 +9184,7 @@ grunt:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3ad
   voted: false
 guilded:
@@ -9194,7 +9194,7 @@ guilded:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e07e
   voted: false
 guitar:
@@ -9222,7 +9222,7 @@ gulp:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3ae
   voted: false
 h-square:
@@ -9249,7 +9249,7 @@ hacker-news:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1d4
   voted: false
 hacker-news-square:
@@ -9259,7 +9259,7 @@ hacker-news-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3af
   voted: false
 hackerrank:
@@ -9270,7 +9270,7 @@ hackerrank:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f5f7
   voted: true
 hamburger:
@@ -10091,7 +10091,7 @@ hips:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f452
   voted: false
 hire-a-helper:
@@ -10101,7 +10101,7 @@ hire-a-helper:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3b0
   voted: false
 history:
@@ -10127,7 +10127,7 @@ hive:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e07f
   voted: false
 hockey-puck:
@@ -10186,7 +10186,7 @@ hooli:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f427
   voted: false
 hornbill:
@@ -10197,7 +10197,7 @@ hornbill:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f592
   voted: false
 horse:
@@ -10350,7 +10350,7 @@ hotjar:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3b1
   voted: false
 hourglass:
@@ -10462,7 +10462,7 @@ houzz:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f27c
   voted: false
 hryvnia:
@@ -10487,7 +10487,7 @@ html5:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f13b
   voted: false
 hubspot:
@@ -10497,7 +10497,7 @@ hubspot:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3b2
   voted: false
 i-cursor:
@@ -10631,7 +10631,7 @@ ideal:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e013
   voted: true
 igloo:
@@ -10692,7 +10692,7 @@ imdb:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2d8
   voted: false
 inbox:
@@ -10801,7 +10801,7 @@ innosoft:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e080
   voted: false
 instagram:
@@ -10812,7 +10812,7 @@ instagram:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f16d
   voted: false
 instagram-square:
@@ -10823,7 +10823,7 @@ instagram-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e055
   voted: true
 instalod:
@@ -10833,7 +10833,7 @@ instalod:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e081
   voted: false
 intercom:
@@ -10846,7 +10846,7 @@ intercom:
       - customer
       - messenger
   styles:
-    - brands
+    - Cars
   unicode: f7af
   voted: false
 internet-explorer:
@@ -10859,7 +10859,7 @@ internet-explorer:
       - browser
       - ie
   styles:
-    - brands
+    - Cars
   unicode: f26b
   voted: false
 invision:
@@ -10872,7 +10872,7 @@ invision:
       - design
       - interface
   styles:
-    - brands
+    - Cars
   unicode: f7b0
   voted: false
 ioxhost:
@@ -10883,7 +10883,7 @@ ioxhost:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f208
   voted: false
 italic:
@@ -10913,7 +10913,7 @@ itch-io:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f83a
 itunes:
   changes:
@@ -10922,7 +10922,7 @@ itunes:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3b4
   voted: false
 itunes-note:
@@ -10932,7 +10932,7 @@ itunes-note:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3b5
   voted: false
 java:
@@ -10944,7 +10944,7 @@ java:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4e4
   voted: false
 jedi:
@@ -10972,7 +10972,7 @@ jedi-order:
     terms:
       - star wars
   styles:
-    - brands
+    - Cars
   unicode: f50e
   voted: false
 jenkins:
@@ -10982,7 +10982,7 @@ jenkins:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3b6
   voted: false
 jira:
@@ -10993,7 +10993,7 @@ jira:
     terms:
       - atlassian
   styles:
-    - brands
+    - Cars
   unicode: f7b1
   voted: true
 joget:
@@ -11003,7 +11003,7 @@ joget:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3b7
   voted: false
 joint:
@@ -11033,7 +11033,7 @@ joomla:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1aa
   voted: false
 journal-whills:
@@ -11060,7 +11060,7 @@ js:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3b8
   voted: false
 js-square:
@@ -11071,7 +11071,7 @@ js-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3b9
   voted: false
 jsfiddle:
@@ -11082,7 +11082,7 @@ jsfiddle:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1cc
   voted: false
 kaaba:
@@ -11107,7 +11107,7 @@ kaggle:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f5fa
   voted: true
 key:
@@ -11137,7 +11137,7 @@ keybase:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4f5
   voted: true
 keyboard:
@@ -11165,7 +11165,7 @@ keycdn:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3ba
   voted: false
 khanda:
@@ -11189,7 +11189,7 @@ kickstarter:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3bb
   voted: false
 kickstarter-k:
@@ -11199,7 +11199,7 @@ kickstarter-k:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3bc
   voted: false
 kiss:
@@ -11277,7 +11277,7 @@ korvue:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f42f
   voted: false
 landmark:
@@ -11395,7 +11395,7 @@ laravel:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3bd
   voted: false
 lastfm:
@@ -11406,7 +11406,7 @@ lastfm:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f202
   voted: false
 lastfm-square:
@@ -11418,7 +11418,7 @@ lastfm-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f203
   voted: false
 laugh:
@@ -11533,7 +11533,7 @@ leanpub:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f212
   voted: false
 lemon:
@@ -11559,7 +11559,7 @@ less:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f41d
   voted: false
 less-than:
@@ -11653,7 +11653,7 @@ line:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3c0
   voted: false
 link:
@@ -11680,7 +11680,7 @@ linkedin:
     terms:
       - linkedin-square
   styles:
-    - brands
+    - Cars
   unicode: f08c
   voted: false
 linkedin-in:
@@ -11695,7 +11695,7 @@ linkedin-in:
     terms:
       - linkedin
   styles:
-    - brands
+    - Cars
   unicode: f0e1
   voted: false
 linode:
@@ -11706,7 +11706,7 @@ linode:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2b8
   voted: false
 linux:
@@ -11718,7 +11718,7 @@ linux:
     terms:
       - tux
   styles:
-    - brands
+    - Cars
   unicode: f17c
   voted: false
 lira-sign:
@@ -11984,7 +11984,7 @@ lyft:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3c3
   voted: false
 magento:
@@ -11994,7 +11994,7 @@ magento:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3c4
   voted: false
 magic:
@@ -12061,7 +12061,7 @@ mailchimp:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f59e
   voted: true
 male:
@@ -12088,7 +12088,7 @@ mandalorian:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f50f
   voted: false
 map:
@@ -12271,7 +12271,7 @@ markdown:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f60f
   voted: true
 marker:
@@ -12372,7 +12372,7 @@ mastodon:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4f6
   voted: true
 maxcdn:
@@ -12383,7 +12383,7 @@ maxcdn:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f136
   voted: false
 mdb:
@@ -12393,7 +12393,7 @@ mdb:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f8ca
 medal:
   changes:
@@ -12416,7 +12416,7 @@ medapps:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3c6
   voted: false
 medium:
@@ -12427,7 +12427,7 @@ medium:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f23a
   voted: false
 medium-m:
@@ -12437,7 +12437,7 @@ medium-m:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3c7
   voted: false
 medkit:
@@ -12463,7 +12463,7 @@ medrt:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3c8
   voted: false
 meetup:
@@ -12474,7 +12474,7 @@ meetup:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2e0
   voted: false
 megaport:
@@ -12484,7 +12484,7 @@ megaport:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f5a3
   voted: false
 meh:
@@ -12563,7 +12563,7 @@ mendeley:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f7b3
   voted: true
 menorah:
@@ -12619,7 +12619,7 @@ microblog:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e01a
   voted: true
 microchip:
@@ -12733,7 +12733,7 @@ microsoft:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3ca
   voted: true
 minus:
@@ -12816,7 +12816,7 @@ mix:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3cb
   voted: false
 mixcloud:
@@ -12827,7 +12827,7 @@ mixcloud:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f289
   voted: false
 mixer:
@@ -12838,7 +12838,7 @@ mixer:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e056
   voted: true
 mizuni:
@@ -12848,7 +12848,7 @@ mizuni:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3cc
   voted: false
 mobile:
@@ -12898,7 +12898,7 @@ modx:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f285
   voted: false
 monero:
@@ -12908,7 +12908,7 @@ monero:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3d0
   voted: false
 money-bill:
@@ -13189,7 +13189,7 @@ napster:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3d2
   voted: false
 neos:
@@ -13200,7 +13200,7 @@ neos:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f612
   voted: true
 network-wired:
@@ -13257,7 +13257,7 @@ nimblr:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f5a8
   voted: false
 node:
@@ -13267,7 +13267,7 @@ node:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f419
   voted: true
 node-js:
@@ -13278,7 +13278,7 @@ node-js:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3d3
   voted: false
 not-equal:
@@ -13317,7 +13317,7 @@ npm:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3d4
   voted: false
 ns8:
@@ -13328,7 +13328,7 @@ ns8:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3d5
   voted: false
 nutritionix:
@@ -13338,7 +13338,7 @@ nutritionix:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3d6
   voted: false
 object-group:
@@ -13384,7 +13384,7 @@ octopus-deploy:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e082
   voted: false
 odnoklassniki:
@@ -13395,7 +13395,7 @@ odnoklassniki:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f263
   voted: false
 odnoklassniki-square:
@@ -13406,7 +13406,7 @@ odnoklassniki-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f264
   voted: false
 oil-can:
@@ -13435,7 +13435,7 @@ old-republic:
       - politics
       - star wars
   styles:
-    - brands
+    - Cars
   unicode: f510
   voted: false
 om:
@@ -13460,7 +13460,7 @@ opencart:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f23d
   voted: false
 openid:
@@ -13471,7 +13471,7 @@ openid:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f19b
   voted: false
 opera:
@@ -13482,7 +13482,7 @@ opera:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f26a
   voted: false
 optin-monster:
@@ -13494,7 +13494,7 @@ optin-monster:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f23c
   voted: false
 orcid:
@@ -13504,7 +13504,7 @@ orcid:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f8d2
 osi:
   changes:
@@ -13514,7 +13514,7 @@ osi:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f41a
   voted: false
 otter:
@@ -13556,7 +13556,7 @@ page4:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3d7
   voted: false
 pagelines:
@@ -13574,7 +13574,7 @@ pagelines:
       - plant
       - tree
   styles:
-    - brands
+    - Cars
   unicode: f18c
   voted: false
 pager:
@@ -13654,7 +13654,7 @@ palfed:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3d8
   voted: false
 pallet:
@@ -13801,7 +13801,7 @@ patreon:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3d9
   voted: false
 pause:
@@ -13856,7 +13856,7 @@ paypal:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1ed
   voted: false
 peace:
@@ -13994,7 +13994,7 @@ penny-arcade:
       - pax
       - tabletop
   styles:
-    - brands
+    - Cars
   unicode: f704
   voted: false
 people-arrows:
@@ -14057,7 +14057,7 @@ perbyte:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e083
   voted: false
 percent:
@@ -14098,7 +14098,7 @@ periscope:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3da
   voted: false
 person-booth:
@@ -14125,7 +14125,7 @@ phabricator:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3db
   voted: false
 phoenix-framework:
@@ -14136,7 +14136,7 @@ phoenix-framework:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3dc
   voted: false
 phoenix-squadron:
@@ -14147,7 +14147,7 @@ phoenix-squadron:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f511
   voted: false
 phone:
@@ -14283,7 +14283,7 @@ php:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f457
   voted: true
 pied-piper:
@@ -14296,7 +14296,7 @@ pied-piper:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2ae
   voted: false
 pied-piper-alt:
@@ -14308,7 +14308,7 @@ pied-piper-alt:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1a8
   voted: false
 pied-piper-hat:
@@ -14319,7 +14319,7 @@ pied-piper-hat:
     terms:
       - clothing
   styles:
-    - brands
+    - Cars
   unicode: f4e5
   voted: false
 pied-piper-pp:
@@ -14330,7 +14330,7 @@ pied-piper-pp:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1a7
   voted: false
 pied-piper-square:
@@ -14341,7 +14341,7 @@ pied-piper-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e01e
   voted: false
 piggy-bank:
@@ -14380,7 +14380,7 @@ pinterest:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f0d2
   voted: false
 pinterest-p:
@@ -14391,7 +14391,7 @@ pinterest-p:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f231
   voted: false
 pinterest-square:
@@ -14402,7 +14402,7 @@ pinterest-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f0d3
   voted: false
 pizza-slice:
@@ -14561,7 +14561,7 @@ playstation:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3df
   voted: false
 plug:
@@ -14892,7 +14892,7 @@ product-hunt:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f288
   voted: false
 project-diagram:
@@ -14953,7 +14953,7 @@ pushed:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3e1
   voted: false
 puzzle-piece:
@@ -14978,7 +14978,7 @@ python:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3e2
   voted: false
 qq:
@@ -14989,7 +14989,7 @@ qq:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1d6
   voted: false
 qrcode:
@@ -15067,7 +15067,7 @@ quinscape:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f459
   voted: false
 quora:
@@ -15078,7 +15078,7 @@ quora:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2c4
   voted: false
 quote-left:
@@ -15137,7 +15137,7 @@ r-project:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4f7
   voted: true
 radiation:
@@ -15220,7 +15220,7 @@ raspberry-pi:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f7bb
   voted: true
 ravelry:
@@ -15232,7 +15232,7 @@ ravelry:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2d9
   voted: false
 react:
@@ -15242,7 +15242,7 @@ react:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f41b
   voted: false
 reacteurope:
@@ -15253,7 +15253,7 @@ reacteurope:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f75d
   voted: false
 readme:
@@ -15264,7 +15264,7 @@ readme:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4d5
   voted: false
 rebel:
@@ -15275,7 +15275,7 @@ rebel:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1d0
   voted: false
 receipt:
@@ -15332,7 +15332,7 @@ red-river:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3e3
   voted: false
 reddit:
@@ -15343,7 +15343,7 @@ reddit:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1a1
   voted: false
 reddit-alien:
@@ -15354,7 +15354,7 @@ reddit-alien:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f281
   voted: false
 reddit-square:
@@ -15365,7 +15365,7 @@ reddit-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1a2
   voted: false
 redhat:
@@ -15379,7 +15379,7 @@ redhat:
       - operating system
       - os
   styles:
-    - brands
+    - Cars
   unicode: f7bc
   voted: true
 redo:
@@ -15452,7 +15452,7 @@ renren:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f18b
   voted: false
 reply:
@@ -15490,7 +15490,7 @@ replyd:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3e6
   voted: false
 republican:
@@ -15519,7 +15519,7 @@ researchgate:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4f8
   voted: true
 resolving:
@@ -15529,7 +15529,7 @@ resolving:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3e7
   voted: false
 restroom:
@@ -15573,7 +15573,7 @@ rev:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f5b2
   voted: false
 ribbon:
@@ -15674,7 +15674,7 @@ rocketchat:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3e8
   voted: false
 rockrms:
@@ -15684,7 +15684,7 @@ rockrms:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3e9
   voted: false
 route:
@@ -15848,7 +15848,7 @@ rust:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e07a
   voted: true
 sad-cry:
@@ -15895,7 +15895,7 @@ safari:
     terms:
       - browser
   styles:
-    - brands
+    - Cars
   unicode: f267
   voted: false
 salesforce:
@@ -15905,7 +15905,7 @@ salesforce:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f83b
 sass:
   changes:
@@ -15915,7 +15915,7 @@ sass:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f41e
   voted: false
 satellite:
@@ -15976,7 +15976,7 @@ schlix:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3ea
   voted: false
 school:
@@ -16018,7 +16018,7 @@ scribd:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f28a
   voted: false
 scroll:
@@ -16144,7 +16144,7 @@ searchengin:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3eb
   voted: false
 seedling:
@@ -16169,7 +16169,7 @@ sellcast:
     terms:
       - eercast
   styles:
-    - brands
+    - Cars
   unicode: f2da
   voted: false
 sellsy:
@@ -16180,7 +16180,7 @@ sellsy:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f213
   voted: false
 server:
@@ -16206,7 +16206,7 @@ servicestack:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3ec
   voted: false
 shapes:
@@ -16374,7 +16374,7 @@ shirtsinbulk:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f214
   voted: false
 shoe-prints:
@@ -16399,7 +16399,7 @@ shopify:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e057
   voted: false
 shopping-bag:
@@ -16458,7 +16458,7 @@ shopware:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f5b5
   voted: false
 shower:
@@ -16618,7 +16618,7 @@ simplybuilt:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f215
   voted: false
 sink:
@@ -16645,7 +16645,7 @@ sistrix:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3ee
   voted: false
 sitemap:
@@ -16672,7 +16672,7 @@ sith:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f512
   voted: false
 skating:
@@ -16701,7 +16701,7 @@ sketch:
       - design
       - interface
   styles:
-    - brands
+    - Cars
   unicode: f7c6
   voted: false
 skiing:
@@ -16789,7 +16789,7 @@ skyatlas:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f216
   voted: false
 skype:
@@ -16800,7 +16800,7 @@ skype:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f17e
   voted: false
 slack:
@@ -16815,7 +16815,7 @@ slack:
       - hash
       - hashtag
   styles:
-    - brands
+    - Cars
   unicode: f198
   voted: false
 slack-hash:
@@ -16828,7 +16828,7 @@ slack-hash:
       - hash
       - hashtag
   styles:
-    - brands
+    - Cars
   unicode: f3ef
   voted: false
 slash:
@@ -16888,7 +16888,7 @@ slideshare:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1e7
   voted: false
 smile:
@@ -17019,7 +17019,7 @@ snapchat:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2ab
   voted: false
 snapchat-ghost:
@@ -17030,7 +17030,7 @@ snapchat-ghost:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2ac
   voted: false
 snapchat-square:
@@ -17041,7 +17041,7 @@ snapchat-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2ad
   voted: false
 snowboarding:
@@ -17396,7 +17396,7 @@ soundcloud:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1be
   voted: false
 sourcetree:
@@ -17407,7 +17407,7 @@ sourcetree:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f7d3
   voted: true
 spa:
@@ -17452,7 +17452,7 @@ speakap:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3f3
   voted: false
 speaker-deck:
@@ -17462,7 +17462,7 @@ speaker-deck:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f83c
 spell-check:
   changes:
@@ -17533,7 +17533,7 @@ spotify:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1bc
   voted: false
 spray-can:
@@ -17603,7 +17603,7 @@ squarespace:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f5be
   voted: true
 stack-exchange:
@@ -17615,7 +17615,7 @@ stack-exchange:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f18d
   voted: false
 stack-overflow:
@@ -17626,7 +17626,7 @@ stack-overflow:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f16c
   voted: false
 stackpath:
@@ -17636,7 +17636,7 @@ stackpath:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f842
 stamp:
   changes:
@@ -17760,7 +17760,7 @@ staylinked:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3f5
   voted: false
 steam:
@@ -17771,7 +17771,7 @@ steam:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1b6
   voted: false
 steam-square:
@@ -17782,7 +17782,7 @@ steam-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1b7
   voted: false
 steam-symbol:
@@ -17792,7 +17792,7 @@ steam-symbol:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3f6
   voted: false
 step-backward:
@@ -17860,7 +17860,7 @@ sticker-mule:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3f7
   voted: false
 sticky-note:
@@ -18020,7 +18020,7 @@ strava:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f428
   voted: false
 stream:
@@ -18078,7 +18078,7 @@ stripe:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f429
   voted: false
 stripe-s:
@@ -18089,7 +18089,7 @@ stripe-s:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f42a
   voted: false
 stroopwafel:
@@ -18114,7 +18114,7 @@ studiovinari:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3f8
   voted: false
 stumbleupon:
@@ -18125,7 +18125,7 @@ stumbleupon:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1a4
   voted: false
 stumbleupon-circle:
@@ -18136,7 +18136,7 @@ stumbleupon-circle:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1a3
   voted: false
 subscript:
@@ -18237,7 +18237,7 @@ superpowers:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2dd
   voted: false
 superscript:
@@ -18266,7 +18266,7 @@ supple:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3f9
   voted: false
 surprise:
@@ -18296,7 +18296,7 @@ suse:
       - operating system
       - os
   styles:
-    - brands
+    - Cars
   unicode: f7d6
   voted: true
 swatchbook:
@@ -18323,7 +18323,7 @@ swift:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f8e1
 swimmer:
   changes:
@@ -18363,7 +18363,7 @@ symfony:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f83d
 synagogue:
   changes:
@@ -18611,7 +18611,7 @@ teamspeak:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f4f9
   voted: true
 teeth:
@@ -18655,7 +18655,7 @@ telegram:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2c6
   voted: false
 telegram-plane:
@@ -18665,7 +18665,7 @@ telegram-plane:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f3fe
   voted: false
 temperature-high:
@@ -18708,7 +18708,7 @@ tencent-weibo:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1d5
   voted: false
 tenge:
@@ -18835,7 +18835,7 @@ the-red-yeti:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f69d
   voted: false
 theater-masks:
@@ -18861,7 +18861,7 @@ themeco:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f5c6
   voted: false
 themeisle:
@@ -18872,7 +18872,7 @@ themeisle:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2b2
   voted: false
 thermometer:
@@ -18970,7 +18970,7 @@ think-peaks:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f731
   voted: false
 thumbs-down:
@@ -19057,7 +19057,7 @@ tiktok:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e07b
   voted: true
 times:
@@ -19346,7 +19346,7 @@ trade-federation:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f513
   voted: false
 trademark:
@@ -19540,7 +19540,7 @@ trello:
     terms:
       - atlassian
   styles:
-    - brands
+    - Cars
   unicode: f181
   voted: false
 tripadvisor:
@@ -19553,7 +19553,7 @@ tripadvisor:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f262
   voted: false
 trophy:
@@ -19685,7 +19685,7 @@ tumblr:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f173
   voted: false
 tumblr-square:
@@ -19696,7 +19696,7 @@ tumblr-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f174
   voted: false
 tv:
@@ -19724,7 +19724,7 @@ twitch:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1e8
   voted: false
 twitter:
@@ -19737,7 +19737,7 @@ twitter:
       - social network
       - tweet
   styles:
-    - brands
+    - Cars
   unicode: f099
   voted: false
 twitter-square:
@@ -19750,7 +19750,7 @@ twitter-square:
       - social network
       - tweet
   styles:
-    - brands
+    - Cars
   unicode: f081
   voted: false
 typo3:
@@ -19761,7 +19761,7 @@ typo3:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f42b
   voted: false
 uber:
@@ -19771,7 +19771,7 @@ uber:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f402
   voted: false
 ubuntu:
@@ -19784,7 +19784,7 @@ ubuntu:
       - operating system
       - os
   styles:
-    - brands
+    - Cars
   unicode: f7df
   voted: true
 uikit:
@@ -19794,7 +19794,7 @@ uikit:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f403
   voted: false
 umbraco:
@@ -19804,7 +19804,7 @@ umbraco:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f8e8
 umbrella:
   changes:
@@ -19844,7 +19844,7 @@ uncharted:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e084
   voted: false
 underline:
@@ -19905,7 +19905,7 @@ uniregistry:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f404
   voted: false
 unity:
@@ -19916,7 +19916,7 @@ unity:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e049
   voted: true
 universal-access:
@@ -20010,7 +20010,7 @@ unsplash:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e07c
   voted: false
 untappd:
@@ -20020,7 +20020,7 @@ untappd:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f405
   voted: false
 upload:
@@ -20048,7 +20048,7 @@ ups:
       - package
       - shipping
   styles:
-    - brands
+    - Cars
   unicode: f7e0
 usb:
   changes:
@@ -20058,7 +20058,7 @@ usb:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f287
   voted: false
 user:
@@ -20529,7 +20529,7 @@ usps:
       - shipping
       - usa
   styles:
-    - brands
+    - Cars
   unicode: f7e1
 ussunnah:
   changes:
@@ -20538,7 +20538,7 @@ ussunnah:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f407
   voted: false
 utensil-spoon:
@@ -20582,7 +20582,7 @@ vaadin:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f408
   voted: false
 vector-square:
@@ -20674,7 +20674,7 @@ viacoin:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f237
   voted: false
 viadeo:
@@ -20685,7 +20685,7 @@ viadeo:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2a9
   voted: false
 viadeo-square:
@@ -20697,7 +20697,7 @@ viadeo-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2aa
   voted: false
 vial:
@@ -20740,7 +20740,7 @@ viber:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f409
   voted: false
 video:
@@ -20798,7 +20798,7 @@ vimeo:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f40a
   voted: false
 vimeo-square:
@@ -20809,7 +20809,7 @@ vimeo-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f194
   voted: false
 vimeo-v:
@@ -20821,7 +20821,7 @@ vimeo-v:
     terms:
       - vimeo
   styles:
-    - brands
+    - Cars
   unicode: f27d
   voted: false
 vine:
@@ -20832,7 +20832,7 @@ vine:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1ca
   voted: false
 virus:
@@ -20898,7 +20898,7 @@ vk:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f189
   voted: false
 vnv:
@@ -20908,7 +20908,7 @@ vnv:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f40b
   voted: false
 voicemail:
@@ -21048,7 +21048,7 @@ vuejs:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f41f
   voted: false
 walking:
@@ -21102,7 +21102,7 @@ watchman-monitoring:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e087
   voted: false
 water:
@@ -21141,7 +21141,7 @@ waze:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f83f
 weebly:
   changes:
@@ -21150,7 +21150,7 @@ weebly:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f5cc
   voted: true
 weibo:
@@ -21161,7 +21161,7 @@ weibo:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f18a
   voted: false
 weight:
@@ -21200,7 +21200,7 @@ weixin:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1d7
   voted: false
 whatsapp:
@@ -21211,7 +21211,7 @@ whatsapp:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f232
   voted: false
 whatsapp-square:
@@ -21221,7 +21221,7 @@ whatsapp-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f40c
   voted: false
 wheelchair:
@@ -21246,7 +21246,7 @@ whmcs:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f40d
   voted: false
 wifi:
@@ -21276,7 +21276,7 @@ wikipedia-w:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f266
   voted: false
 wind:
@@ -21371,7 +21371,7 @@ windows:
       - operating system
       - os
   styles:
-    - brands
+    - Cars
   unicode: f17a
   voted: false
 wine-bottle:
@@ -21440,7 +21440,7 @@ wix:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f5cf
   voted: true
 wizards-of-the-coast:
@@ -21457,7 +21457,7 @@ wizards-of-the-coast:
       - gaming
       - tabletop
   styles:
-    - brands
+    - Cars
   unicode: f730
   voted: false
 wodu:
@@ -21467,7 +21467,7 @@ wodu:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: e088
   voted: false
 wolf-pack-battalion:
@@ -21478,7 +21478,7 @@ wolf-pack-battalion:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f514
   voted: false
 won-sign:
@@ -21503,7 +21503,7 @@ wordpress:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f19a
   voted: false
 wordpress-simple:
@@ -21513,7 +21513,7 @@ wordpress-simple:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f411
   voted: false
 wpbeginner:
@@ -21524,7 +21524,7 @@ wpbeginner:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f297
   voted: false
 wpexplorer:
@@ -21535,7 +21535,7 @@ wpexplorer:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2de
   voted: false
 wpforms:
@@ -21546,7 +21546,7 @@ wpforms:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f298
   voted: false
 wpressr:
@@ -21557,7 +21557,7 @@ wpressr:
     terms:
       - rendact
   styles:
-    - brands
+    - Cars
   unicode: f3e4
   voted: false
 wrench:
@@ -21603,7 +21603,7 @@ xbox:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f412
   voted: false
 xing:
@@ -21614,7 +21614,7 @@ xing:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f168
   voted: false
 xing-square:
@@ -21625,7 +21625,7 @@ xing-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f169
   voted: false
 y-combinator:
@@ -21636,7 +21636,7 @@ y-combinator:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f23b
   voted: false
 yahoo:
@@ -21649,7 +21649,7 @@ yahoo:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f19e
   voted: false
 yammer:
@@ -21659,7 +21659,7 @@ yammer:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f840
 yandex:
   changes:
@@ -21668,7 +21668,7 @@ yandex:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f413
   voted: false
 yandex-international:
@@ -21678,7 +21678,7 @@ yandex-international:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f414
   voted: false
 yarn:
@@ -21688,7 +21688,7 @@ yarn:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f7e3
   voted: true
 yelp:
@@ -21701,7 +21701,7 @@ yelp:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f1e9
   voted: false
 yen-sign:
@@ -21743,7 +21743,7 @@ yoast:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f2b1
   voted: false
 youtube:
@@ -21758,7 +21758,7 @@ youtube:
       - youtube-play
       - youtube-square
   styles:
-    - brands
+    - Cars
   unicode: f167
   voted: false
 youtube-square:
@@ -21768,7 +21768,7 @@ youtube-square:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f431
   voted: false
 zhihu:
@@ -21778,6 +21778,6 @@ zhihu:
   search:
     terms: []
   styles:
-    - brands
+    - Cars
   unicode: f63f
   voted: true

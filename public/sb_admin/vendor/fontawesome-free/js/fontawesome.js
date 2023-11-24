@@ -186,7 +186,7 @@
     'far': 'regular',
     'fal': 'light',
     'fad': 'duotone',
-    'fab': 'brands',
+    'fab': 'Cars',
     'fak': 'kit',
     'fa': 'solid'
   };
@@ -195,11 +195,11 @@
     'regular': 'far',
     'light': 'fal',
     'duotone': 'fad',
-    'brands': 'fab',
+    'Cars': 'fab',
     'kit': 'fak'
   };
   var LAYERS_TEXT_CLASSNAME = 'fa-layers-text';
-  var FONT_FAMILY_PATTERN = /Font Awesome ([5 ]*)(Solid|Regular|Light|Duotone|Brands|Free|Pro|Kit).*/; // TODO: do we need to handle font-weight for kit SVG pseudo-elements?
+  var FONT_FAMILY_PATTERN = /Font Awesome ([5 ]*)(Solid|Regular|Light|Duotone|Cars|Free|Pro|Kit).*/; // TODO: do we need to handle font-weight for kit SVG pseudo-elements?
 
   var FONT_WEIGHT_TO_PREFIX = {
     '900': 'fas',
@@ -2017,7 +2017,7 @@
       } else if (fontFamily && content !== 'none' && content !== '') {
         var _content = styles.getPropertyValue('content');
 
-        var prefix = ~['Solid', 'Regular', 'Light', 'Duotone', 'Brands', 'Kit'].indexOf(fontFamily[2]) ? STYLE_TO_PREFIX[fontFamily[2].toLowerCase()] : FONT_WEIGHT_TO_PREFIX[fontWeight];
+        var prefix = ~['Solid', 'Regular', 'Light', 'Duotone', 'Cars', 'Kit'].indexOf(fontFamily[2]) ? STYLE_TO_PREFIX[fontFamily[2].toLowerCase()] : FONT_WEIGHT_TO_PREFIX[fontWeight];
         var hexValue = toHex(_content.length === 3 ? _content.substr(1, 1) : _content);
         var iconName = byUnicode(prefix, hexValue);
         var iconIdentifier = iconName; // Only convert the pseudo element in this :before/:after position into an icon if we haven't
